@@ -1,20 +1,20 @@
 # Simple Draggable Component
 
-## 구현
+## Description
 
-- Draggable 컴포넌트 안에 있는 박스를 드래그 가능하게 구현
+- To make "Box" component move within draggable area with "Draggable" component.
 
-## 주소
+## Local Server
 
-- 서버: <localhost:3000>
+- http://localhost:3000
 
-## local에서 서버 실행 방법
+## Script to start project
 
 ```
 npm start
 ```
 
-## 사용된 기술스택
+## Skils used in project
 
 - React
 - Typescript
